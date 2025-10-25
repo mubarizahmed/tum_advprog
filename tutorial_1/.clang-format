@@ -1,0 +1,15 @@
+Language: Cpp
+ColumnLimit: 120
+IndentWidth: 2
+TabWidth: 2
+UseTab: Never
+AllowShortBlocksOnASingleLine: Empty
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: true
+SortIncludes: CaseInsensitive
+PointerAlignment: Left
+AlignAfterOpenBracket: DontAlign
+BreakConstructorInitializers: BeforeColon
+PackConstructorInitializers: NextLineOnly
+BreakBeforeConceptDeclarations: Always
+AlwaysBreakTemplateDeclarations: Yes
