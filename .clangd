@@ -1,0 +1,7 @@
+CompileFlags:
+  Add: [-Wall]
+
+
+Diagnostics:
+  ClangTidy:
+    Add: [performance-*, portability-*, readability-*, modernize-*, cppcoreguidelines-*, bugprone-*]

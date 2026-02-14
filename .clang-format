@@ -1,6 +1,6 @@
 Language: Cpp
 ColumnLimit: 120
-IndentWidth: 2
+IndentWidth: 4
 TabWidth: 2
 UseTab: Never
 AllowShortBlocksOnASingleLine: Empty
