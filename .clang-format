@@ -7,7 +7,7 @@ AllowShortBlocksOnASingleLine: Empty
 AllowShortFunctionsOnASingleLine: Empty
 AllowShortIfStatementsOnASingleLine: true
 SortIncludes: CaseInsensitive
-PointerAlignment: Left
+PointerAlignment: Right
 AlignAfterOpenBracket: DontAlign
 BreakConstructorInitializers: BeforeColon
 PackConstructorInitializers: NextLineOnly
