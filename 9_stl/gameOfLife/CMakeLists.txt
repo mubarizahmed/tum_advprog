@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.8)
+project(game-of-life VERSION 0.1.0 LANGUAGES CXX)
+add_executable(game-of-life game-of-life.cpp Matrix.h)
+target_compile_features(game-of-life PUBLIC cxx_std_17)
+set (CMAKE_CXX_FLAGS "-O0")
